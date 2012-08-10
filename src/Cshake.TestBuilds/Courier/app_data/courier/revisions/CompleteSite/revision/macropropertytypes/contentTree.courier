@@ -1,0 +1,16 @@
+﻿<MacroPropertyType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CourierFileName>contentTree</CourierFileName>
+    <Dependencies />
+    <ItemId>
+        <Id>contentTree</Id>
+        <ProviderId>d8e6ad85-e73a-11df-9492-0800200c9a66</ProviderId>
+    </ItemId>
+    <Name>contentTree</Name>
+    <ItemType>Item</ItemType>
+    <Resources />
+    <Alias>contentTree</Alias>
+    <Assembly>umbraco.macroRenderings</Assembly>
+    <BaseType>Int32</BaseType>
+    <Id>17</Id>
+    <Type>content</Type>
+</MacroPropertyType>

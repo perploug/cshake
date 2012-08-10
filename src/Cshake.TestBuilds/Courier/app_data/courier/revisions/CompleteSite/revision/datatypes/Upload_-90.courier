@@ -1,0 +1,18 @@
+﻿<DataType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CourierFileName>Upload_-90</CourierFileName>
+    <Dependencies />
+    <ItemId>
+        <Id>84c6b441-31df-4ffe-b67e-67d5bc3ae65a</Id>
+        <ProviderId>e0472592-e73b-11df-9492-0800200c9a66</ProviderId>
+    </ItemId>
+    <Name>Upload</Name>
+    <ItemType>Dependency</ItemType>
+    <Resources />
+    <Assembly>umbraco.editorControls</Assembly>
+    <DataBaseDataType>Nvarchar</DataBaseDataType>
+    <DataEditorId>5032a6e6-69e3-491d-bb28-cd31cd11086c</DataEditorId>
+    <NodeId>-90</NodeId>
+    <Prevalues />
+    <Type>umbraco.editorControls.uploadfield.DataTypeUploadField</Type>
+    <UniqueID>84c6b441-31df-4ffe-b67e-67d5bc3ae65a</UniqueID>
+</DataType>

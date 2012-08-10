@@ -1,0 +1,18 @@
+﻿<DataType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CourierFileName>Media Picker_1035</CourierFileName>
+    <Dependencies />
+    <ItemId>
+        <Id>93929b9a-93a2-4e2a-b239-d99334440a59</Id>
+        <ProviderId>e0472592-e73b-11df-9492-0800200c9a66</ProviderId>
+    </ItemId>
+    <Name>Media Picker</Name>
+    <ItemType>Item</ItemType>
+    <Resources />
+    <Assembly>umbraco.editorControls</Assembly>
+    <DataBaseDataType>Integer</DataBaseDataType>
+    <DataEditorId>ead69342-f06d-4253-83ac-28000225583b</DataEditorId>
+    <NodeId>1035</NodeId>
+    <Prevalues />
+    <Type>umbraco.editorControls.mediapicker.MemberPickerDataType</Type>
+    <UniqueID>93929b9a-93a2-4e2a-b239-d99334440a59</UniqueID>
+</DataType>

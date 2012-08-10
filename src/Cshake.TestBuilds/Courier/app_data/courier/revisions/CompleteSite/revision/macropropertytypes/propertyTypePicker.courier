@@ -1,0 +1,16 @@
+﻿<MacroPropertyType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CourierFileName>propertyTypePicker</CourierFileName>
+    <Dependencies />
+    <ItemId>
+        <Id>propertyTypePicker</Id>
+        <ProviderId>d8e6ad85-e73a-11df-9492-0800200c9a66</ProviderId>
+    </ItemId>
+    <Name>propertyTypePicker</Name>
+    <ItemType>Item</ItemType>
+    <Resources />
+    <Alias>propertyTypePicker</Alias>
+    <Assembly>umbraco.macroRenderings</Assembly>
+    <BaseType>String</BaseType>
+    <Id>23</Id>
+    <Type>propertyTypePicker</Type>
+</MacroPropertyType>

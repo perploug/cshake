@@ -1,0 +1,18 @@
+﻿<DataType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CourierFileName>Ultimate Picker_1039</CourierFileName>
+    <Dependencies />
+    <ItemId>
+        <Id>06f349a9-c949-4b6a-8660-59c10451af42</Id>
+        <ProviderId>e0472592-e73b-11df-9492-0800200c9a66</ProviderId>
+    </ItemId>
+    <Name>Ultimate Picker</Name>
+    <ItemType>Item</ItemType>
+    <Resources />
+    <Assembly>umbraco.editorControls</Assembly>
+    <DataBaseDataType>Ntext</DataBaseDataType>
+    <DataEditorId>cdbf0b5d-5cb2-445f-bc12-fcaaec07cf2c</DataEditorId>
+    <NodeId>1039</NodeId>
+    <Prevalues />
+    <Type>umbraco.editorControls.ultimatepicker.ultimatePickerDataType</Type>
+    <UniqueID>06f349a9-c949-4b6a-8660-59c10451af42</UniqueID>
+</DataType>

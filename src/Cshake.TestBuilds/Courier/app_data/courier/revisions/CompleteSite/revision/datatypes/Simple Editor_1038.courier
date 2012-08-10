@@ -1,0 +1,18 @@
+﻿<DataType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CourierFileName>Simple Editor_1038</CourierFileName>
+    <Dependencies />
+    <ItemId>
+        <Id>1251c96c-185c-4e9b-93f4-b48205573cbd</Id>
+        <ProviderId>e0472592-e73b-11df-9492-0800200c9a66</ProviderId>
+    </ItemId>
+    <Name>Simple Editor</Name>
+    <ItemType>Item</ItemType>
+    <Resources />
+    <Assembly>umbraco.editorControls</Assembly>
+    <DataBaseDataType>Ntext</DataBaseDataType>
+    <DataEditorId>60b7dabf-99cd-41eb-b8e9-4d2e669bbde9</DataEditorId>
+    <NodeId>1038</NodeId>
+    <Prevalues />
+    <Type>umbraco.editorControls.simpleEditor.simpleEditorDataType</Type>
+    <UniqueID>1251c96c-185c-4e9b-93f4-b48205573cbd</UniqueID>
+</DataType>
