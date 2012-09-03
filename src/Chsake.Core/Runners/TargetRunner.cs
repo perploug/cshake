@@ -8,10 +8,12 @@ namespace Cshake.Core.Runners
     public class TargetRunner
     {
         public IList<ITarget> Visited { get; set; }
+        public IContext Context { get; set; }
 
-        public TargetRunner()
+        public TargetRunner(IContext context)
         {
             Visited = new List<ITarget>();
+            Context = context;
         }
 
         public void Run(ITarget root)
@@ -23,9 +25,8 @@ namespace Cshake.Core.Runners
                         Run(dep);
             }
 
-
             Visited.Add(root);
-            root.Run(null);
+            root.Run(Context);
         }
 
         public bool HasVisited(ITarget target){

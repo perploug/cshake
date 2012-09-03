@@ -20,3 +20,14 @@ C:\Users\per\Documents\Projects\Umbaco Freedom Fridays\Cshake\src\Cshake\bin\Deb
 C:\Users\per\Documents\Projects\Umbaco Freedom Fridays\Cshake\src\Cshake\bin\Debug\Cshake.Tasks.pdb
 C:\Users\per\Documents\Projects\Umbaco Freedom Fridays\Cshake\src\Cshake\bin\Debug\Mono.CSharp.pdb
 C:\Users\per\Documents\Projects\Umbaco Freedom Fridays\Cshake\src\Cshake\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake\obj\x86\Debug\Cshake.exe
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake\obj\x86\Debug\Cshake.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake\bin\Debug\Cshake.exe
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake\bin\Debug\Cshake.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake\bin\Debug\Cshake.Core.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake\bin\Debug\Cshake.Tasks.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake\bin\Debug\Mono.CSharp.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake\bin\Debug\Cshake.Core.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake\bin\Debug\Cshake.Tasks.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake\bin\Debug\Mono.CSharp.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake\obj\x86\Debug\Cshake.csprojResolveAssemblyReference.cache

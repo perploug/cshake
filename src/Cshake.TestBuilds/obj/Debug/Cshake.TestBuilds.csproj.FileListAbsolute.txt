@@ -28,3 +28,15 @@ C:\Users\per\Documents\Projects\Umbaco Freedom Fridays\Cshake\src\Cshake.TestBui
 C:\Users\per\Documents\Projects\Umbaco Freedom Fridays\Cshake\src\Cshake.TestBuilds\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\per\Documents\Projects\Umbaco Freedom Fridays\Cshake\src\Cshake.TestBuilds\obj\Debug\Cshake.TestBuilds.dll
 C:\Users\per\Documents\Projects\Umbaco Freedom Fridays\Cshake\src\Cshake.TestBuilds\obj\Debug\Cshake.TestBuilds.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.TestBuilds\bin\Debug\Cshake.TestBuilds.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.TestBuilds\bin\Debug\Cshake.TestBuilds.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.TestBuilds\bin\Debug\Cshake.Core.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.TestBuilds\bin\Debug\Cshake.Tasks.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.TestBuilds\bin\Debug\Mono.CSharp.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.TestBuilds\bin\Debug\Cshake.Core.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.TestBuilds\bin\Debug\Cshake.Tasks.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.TestBuilds\bin\Debug\Mono.CSharp.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.TestBuilds\obj\Debug\Cshake.TestBuilds.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.TestBuilds\obj\Debug\Cshake.TestBuilds.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.TestBuilds\obj\Debug\Cshake.TestBuilds.csprojResolveAssemblyReference.cache
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.TestBuilds\bin\Debug\Fluent.IO.dll

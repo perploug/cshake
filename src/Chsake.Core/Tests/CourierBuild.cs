@@ -17,19 +17,19 @@ namespace Cshake.Core.Tests
             {
                 Console.WriteLine("This is my default delegate");
             }
-            ).Depends(build);
+            ).DependsOn(build);
 
             build.Execute(() =>
                             {
                                 Console.WriteLine("This is my build delegate");
                             })
-                 .Depends(test);
+                 .DependsOn(test);
 
             zip.Execute(() =>
                 {
                     Console.WriteLine("This is my test delegate");
                 }
-            ).Depends(build, test);
+            ).DependsOn(build, test);
         }
     }
 }

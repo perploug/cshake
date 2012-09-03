@@ -21,7 +21,7 @@ namespace Cshake.Courier.Tasks
         static string directory = Directory.GetCurrentDirectory();
         static string plugins = Path.Combine(System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location), "courierplugins");
 
-        private Cshake.Core.Context _ctx;
+        private Cshake.Core.IContext _ctx;
 
         public Package(string config, string source, string revision, string manifest)
         {
@@ -31,7 +31,7 @@ namespace Cshake.Courier.Tasks
             Manifest = manifest;
         }
 
-        public override void Init(Core.Context cts)
+        public override void Init(Core.IContext cts)
         {
             _ctx = cts;
 
@@ -50,7 +50,7 @@ namespace Cshake.Courier.Tasks
             Umbraco.Courier.Core.Context.Current.HasHttpContext = false;
         }
 
-        public override void ExecuteTask(Core.Context ctx)
+        public override void ExecuteTask(Core.IContext ctx)
         {
             try
             {

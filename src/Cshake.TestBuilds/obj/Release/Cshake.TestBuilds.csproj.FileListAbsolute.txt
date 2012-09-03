@@ -1,0 +1,12 @@
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.TestBuilds\bin\Release\Cshake.TestBuilds.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.TestBuilds\bin\Release\Cshake.TestBuilds.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.TestBuilds\bin\Release\Cshake.Core.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.TestBuilds\bin\Release\Cshake.Tasks.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.TestBuilds\bin\Release\Fluent.IO.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.TestBuilds\bin\Release\Mono.CSharp.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.TestBuilds\bin\Release\Cshake.Core.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.TestBuilds\bin\Release\Cshake.Tasks.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.TestBuilds\bin\Release\Mono.CSharp.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.TestBuilds\obj\Release\Cshake.TestBuilds.csprojResolveAssemblyReference.cache
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.TestBuilds\obj\Release\Cshake.TestBuilds.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.TestBuilds\obj\Release\Cshake.TestBuilds.pdb

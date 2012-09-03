@@ -2,14 +2,17 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using Cshake.Core.Exceptions;
 
 namespace Cshake.Core
 {
     public class Target : ITarget
     {
-        public Action ExecutionAction { get; private set; }
         public Func<bool> IfFunc { get; private set; }
         public Func<bool> UnlessFunc { get; private set; }
+        public bool ThrowExceptionOnError { get; set; }
+
+        public Action ExecutionAction { get; private set; }
         public string Description { get; set; }
 
         private IEnumerable<ITarget> _dependencies = null;
@@ -28,9 +31,15 @@ namespace Cshake.Core
             ExecutionAction = action;
         }
 
-        public ITarget Depends(params ITarget[] dependencies)
+        public ITarget DependsOn(params ITarget[] dependencies)
         {
             _dependencies = dependencies.Cast<Target>();
+            return this;
+        }
+
+        public ITarget FailOnError(bool fail = true)
+        {
+            this.ThrowExceptionOnError = fail;
             return this;
         }
 
@@ -52,10 +61,10 @@ namespace Cshake.Core
             return this;
         }
 
-        public ITarget Run(Context context)
+        public ITarget Run(IContext context)
         {
-            Console.WriteLine("Trying to run: " + this.GetType().Name);
-            Console.WriteLine(this.Description);
+            context.Important(this.Description);
+
 
             if (IfFunc != null)
             {
@@ -71,8 +80,19 @@ namespace Cshake.Core
             }
 
             if (ExecutionAction != null)
-                ExecutionAction.DynamicInvoke(null);
+            {
+                try
+                {
+                    ExecutionAction.DynamicInvoke(null);
+                }
+                catch (Exception ex)
+                {
+                    context.Error(ex);
 
+                    if (ThrowExceptionOnError)
+                        throw new TargetExecutionException();
+                }
+            }
 
             return this;
         }

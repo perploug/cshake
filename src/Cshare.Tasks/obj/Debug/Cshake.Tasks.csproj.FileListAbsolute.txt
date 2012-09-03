@@ -16,3 +16,12 @@ C:\Users\per\Documents\Projects\Umbaco Freedom Fridays\Cshake\src\Cshare.Tasks\b
 C:\Users\per\Documents\Projects\Umbaco Freedom Fridays\Cshake\src\Cshare.Tasks\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\per\Documents\Projects\Umbaco Freedom Fridays\Cshake\src\Cshare.Tasks\obj\Debug\Cshake.Tasks.dll
 C:\Users\per\Documents\Projects\Umbaco Freedom Fridays\Cshake\src\Cshare.Tasks\obj\Debug\Cshake.Tasks.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshare.Tasks\bin\Debug\Cshake.Tasks.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshare.Tasks\bin\Debug\Cshake.Tasks.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshare.Tasks\bin\Debug\Cshake.Core.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshare.Tasks\bin\Debug\Mono.CSharp.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshare.Tasks\bin\Debug\Cshake.Core.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshare.Tasks\bin\Debug\Mono.CSharp.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshare.Tasks\obj\Debug\Cshake.Tasks.csprojResolveAssemblyReference.cache
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshare.Tasks\obj\Debug\Cshake.Tasks.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshare.Tasks\obj\Debug\Cshake.Tasks.pdb

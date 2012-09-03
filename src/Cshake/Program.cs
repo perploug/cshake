@@ -12,30 +12,17 @@ namespace Cshake
     {
         static void Main(string[] args)
         {
-            MonoHost host = new MonoHost(Environment.CurrentDirectory);
-            
             try
             {
-                host.Init();
-                var usings = Path.Combine(Environment.CurrentDirectory + "\\usings.cshake");
-                var build = Path.Combine(Environment.CurrentDirectory + "\\build.cshake");
-
-                host.Load(usings);
-                host.Load(build);
+                var host = new CompiledHost(Environment.CurrentDirectory);
+                host.BuildProject(args[0]);
             }
             catch (Exception ex)
             {
-                Console.WriteLine("INIT: " + ex.ToString());
+                Console.WriteLine(ex.ToString());
             }
 
-            while (true)
-            {
-                Console.Write("->");
-                string input = Console.ReadLine();
-                if (input.Equals("@@")) return;
-                try { host.Run(input); }
-                catch (Exception ex) { Console.WriteLine(ex.Message); }
-            }  
+              
         }
     }
 }

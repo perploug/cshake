@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Dynamic;
 
 namespace Cshake.Core
 {
-    public class Context
+    public class Context : Cshake.Core.IContext
     {
         public string CurrentDirectory { get; set; }
 
@@ -39,5 +40,7 @@ namespace Cshake.Core
             Console.WriteLine(o);
             Console.ResetColor();
         }
+
+        public dynamic Settings{get;set;}
     }
 }

@@ -51,10 +51,6 @@
       <Project>{9B2772E7-FBE2-461E-856B-7F180ED23A02}</Project>
       <Name>Cshake.Core</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Cshake.Courier.Tasks\Cshake.Courier.Tasks.csproj">
-      <Project>{35841080-627C-4872-A697-532855CD8FCB}</Project>
-      <Name>Cshake.Courier.Tasks</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Cshare.Tasks\Cshake.Tasks.csproj">
       <Project>{A0E16FE2-7188-43C6-A019-8109AE18C411}</Project>
       <Name>Cshake.Tasks</Name>

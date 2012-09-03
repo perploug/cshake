@@ -1,0 +1,7 @@
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Chsake.Core\bin\Release\Cshake.Core.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Chsake.Core\bin\Release\Cshake.Core.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Chsake.Core\bin\Release\Mono.CSharp.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Chsake.Core\bin\Release\Mono.CSharp.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Chsake.Core\obj\Release\Cshake.Core.csprojResolveAssemblyReference.cache
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Chsake.Core\obj\Release\Cshake.Core.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Chsake.Core\obj\Release\Cshake.Core.pdb

@@ -1,0 +1,21 @@
+﻿
+
+.propertypane{margin-left: 0px !Important;}
+
+#resourceList ul, #selectList ul {list-style: none; padding-left: 5px; margin: 0px;}
+        #resourceList ul li,  #selectList ul li{display: block; background: no-repeat 2px 2px; padding: 3px; padding-left: 20px; min-height: 12px;}
+        
+        #resourceList ul li img.expand{background-image: url(/umbraco/images/arrowDown.gif); width: 20px; height: 7px}
+        #selectList ul li.file, #resourceList ul li.file{background-image: url(/umbraco/images/umbraco/developerScript.gif);}
+        #selectList ul li.folder, #resourceList ul li.folder{background-image: url(/umbraco/images/umbraco/folder.gif);}
+        
+        #resourceList ul li a, #selectList ul li a{text-decoration: none; color: #333;}
+        #selectList ul li{padding-left: 0px;}
+        #selectList ul li a{display: block; padding-left: 20px;}
+        #selectList ul li a:hover{background: no-repeat 0px 0px url(/umbraco/images/delete.small.png);}
+        
+        .resourcePicker{text-decoration: none; color: #333; display: block; padding: 10px; height: 16px; padding-left: 25px; background: no-repeat 3px 7px url(/umbraco/images/new.png); }
+        
+         #loadingMsg{display: none; !Important};
+        .bar{text-align: center; padding-top: 10px;}
+        .bar small{color: #999; display: block; padding: 10px; padding-top: 5px; text-align: center;}

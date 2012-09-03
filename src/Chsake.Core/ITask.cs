@@ -1,11 +1,11 @@
 ﻿using System;
 namespace Cshake.Core
 {
-    interface ITask
+    public interface ITask
     {
-        void ExecuteTask(Context ctx);
-        void Init(Context ctx);
+        void ExecuteTask(IContext ctx);
+        void Init(IContext ctx);
         bool Initialized { get; set; }
-        Task Run(Context ctx);
+        ITask Run(IContext ctx);
     }
 }

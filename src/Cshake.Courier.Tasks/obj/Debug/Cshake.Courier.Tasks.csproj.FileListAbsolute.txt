@@ -20,3 +20,14 @@ C:\Users\per\Documents\Projects\Umbaco Freedom Fridays\Cshake\src\Cshake.Courier
 C:\Users\per\Documents\Projects\Umbaco Freedom Fridays\Cshake\src\Cshake.Courier.Tasks\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\per\Documents\Projects\Umbaco Freedom Fridays\Cshake\src\Cshake.Courier.Tasks\obj\Debug\Cshake.Courier.Tasks.dll
 C:\Users\per\Documents\Projects\Umbaco Freedom Fridays\Cshake\src\Cshake.Courier.Tasks\obj\Debug\Cshake.Courier.Tasks.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.Courier.Tasks\bin\Debug\Cshake.Courier.Tasks.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.Courier.Tasks\bin\Debug\Cshake.Courier.Tasks.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.Courier.Tasks\bin\Debug\Cshake.Core.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.Courier.Tasks\bin\Debug\Umbraco.Courier.Core.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.Courier.Tasks\bin\Debug\Mono.CSharp.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.Courier.Tasks\bin\Debug\Umbraco.Licensing.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.Courier.Tasks\bin\Debug\Cshake.Core.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.Courier.Tasks\bin\Debug\Mono.CSharp.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.Courier.Tasks\obj\Debug\Cshake.Courier.Tasks.csprojResolveAssemblyReference.cache
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.Courier.Tasks\obj\Debug\Cshake.Courier.Tasks.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshake.Courier.Tasks\obj\Debug\Cshake.Courier.Tasks.pdb

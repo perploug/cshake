@@ -14,15 +14,5 @@ namespace Cshake.Core
 
         public ITarget defaultTarget = null;
 
-        public void run()
-        {
-            if (defaultTarget == null)
-                Console.WriteLine("No default Target found");
-            else
-            {
-                Runners.TargetRunner r = new Runners.TargetRunner();
-                r.Run(defaultTarget);
-            }
-        }
     }
 }

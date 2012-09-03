@@ -14,7 +14,7 @@ namespace Cshake.Tasks
         public string Program { get; set; }
         public string WorkingDirectory { get; set; }
 
-        private Context _ctx = null;
+        private IContext _ctx = null;
 
         public Exec(string program, string workingDirectory = "", params string[] args)
         {
@@ -27,7 +27,7 @@ namespace Cshake.Tasks
 
         }
 
-        public override void ExecuteTask(Context ctx)
+        public override void ExecuteTask(IContext ctx)
         {
             _ctx = ctx;
 
@@ -62,7 +62,7 @@ namespace Cshake.Tasks
             Console.WriteLine(e.Data);
         }
 
-        public override void Init(Context ctx)
+        public override void Init(IContext ctx)
         {
            
         }

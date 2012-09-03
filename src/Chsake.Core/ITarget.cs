@@ -10,8 +10,8 @@ namespace Cshake.Core
         string Description { get; set; }
         bool HasDependencies { get; }
 
-        ITarget Depends(params ITarget[] dependencies);
-        ITarget Run(Context context);
+        ITarget DependsOn(params ITarget[] dependencies);
+        ITarget Run(IContext context);
         ITarget If(Func<bool> action);
         ITarget Unless(Func<bool> action);
         ITarget Execute(Action action);

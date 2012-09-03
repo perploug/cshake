@@ -1,0 +1,9 @@
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshare.Tasks\bin\Release\Cshake.Tasks.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshare.Tasks\bin\Release\Cshake.Tasks.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshare.Tasks\bin\Release\Cshake.Core.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshare.Tasks\bin\Release\Mono.CSharp.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshare.Tasks\bin\Release\Cshake.Core.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshare.Tasks\bin\Release\Mono.CSharp.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshare.Tasks\obj\Release\Cshake.Tasks.csprojResolveAssemblyReference.cache
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshare.Tasks\obj\Release\Cshake.Tasks.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Cshare.Tasks\obj\Release\Cshake.Tasks.pdb

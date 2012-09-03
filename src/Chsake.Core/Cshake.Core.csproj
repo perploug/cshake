@@ -44,10 +44,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Compilers\MsBuild.cs" />
+    <Compile Include="Compilers\ScriptExec.cs" />
     <Compile Include="Context.cs" />
+    <Compile Include="Exceptions\TargetExecutionException.cs" />
+    <Compile Include="Exceptions\TaskExecutionExeception.cs" />
     <Compile Include="Extensions\EvaluatorExtensions.cs" />
+    <Compile Include="Hosts\CompiledHost.cs" />
     <Compile Include="Hosts\MonoHost.cs" />
+    <Compile Include="Hosts\TypeFinder.cs" />
     <Compile Include="Hosts\TypeResolver.cs" />
+    <Compile Include="IBuild.cs" />
+    <Compile Include="IContext.cs" />
     <Compile Include="ITarget.cs" />
     <Compile Include="ITask.cs" />
     <Compile Include="Project.cs" />

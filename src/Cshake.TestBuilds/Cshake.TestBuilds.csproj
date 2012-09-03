@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Fluent.IO">
+      <HintPath>..\Dependencies\FluentPath 1.0\Fluent.IO.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -40,21 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CourierBuild.cs" />
+    <Compile Include="Courier\CourierBuildModel.cs" />
+    <Compile Include="Courier\CourierBuild.cs" />
+    <Compile Include="Courier\ICourierBuildModel.cs" />
+    <Compile Include="FluentExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Courier\build.cshake" />
-    <None Include="Courier\usings.cshake" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Chsake.Core\Cshake.Core.csproj">
       <Project>{9B2772E7-FBE2-461E-856B-7F180ED23A02}</Project>
       <Name>Cshake.Core</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Cshake.Courier.Tasks\Cshake.Courier.Tasks.csproj">
-      <Project>{35841080-627C-4872-A697-532855CD8FCB}</Project>
-      <Name>Cshake.Courier.Tasks</Name>
     </ProjectReference>
     <ProjectReference Include="..\Cshare.Tasks\Cshake.Tasks.csproj">
       <Project>{A0E16FE2-7188-43C6-A019-8109AE18C411}</Project>

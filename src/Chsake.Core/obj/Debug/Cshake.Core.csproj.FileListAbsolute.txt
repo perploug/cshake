@@ -12,3 +12,10 @@ C:\Users\per\Documents\Projects\Umbaco Freedom Fridays\Cshake\src\Chsake.Core\bi
 C:\Users\per\Documents\Projects\Umbaco Freedom Fridays\Cshake\src\Chsake.Core\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\per\Documents\Projects\Umbaco Freedom Fridays\Cshake\src\Chsake.Core\obj\Debug\Cshake.Core.dll
 C:\Users\per\Documents\Projects\Umbaco Freedom Fridays\Cshake\src\Chsake.Core\obj\Debug\Cshake.Core.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Chsake.Core\obj\Debug\Cshake.Core.csprojResolveAssemblyReference.cache
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Chsake.Core\obj\Debug\Cshake.Core.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Chsake.Core\obj\Debug\Cshake.Core.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Chsake.Core\bin\Debug\Cshake.Core.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Chsake.Core\bin\Debug\Cshake.Core.pdb
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Chsake.Core\bin\Debug\Mono.CSharp.dll
+C:\Users\Hartvig\Documents\GitHub\cshake\src\Chsake.Core\bin\Debug\Mono.CSharp.pdb
